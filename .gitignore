@@ -1,0 +1,7 @@
+.ssh/
+*.pem
+*.key
+.env
+secrets/
+terraform.tfstate
+terraform.tfstate.backup

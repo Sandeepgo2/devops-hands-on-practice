@@ -135,3 +135,10 @@ Every implementation will include:
 
 This repository will be continuously updated as I implement and complete each activity.
 
+
+## Latest Progress – 05 November 2026
+
+- Completed Linux CPU and memory monitoring.
+- Practiced system load monitoring using uptime and vmstat.
+- Reviewed resource-intensive processes.
+- Documented Linux troubleshooting activities.

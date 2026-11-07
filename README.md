@@ -155,5 +155,5 @@ This repository will be continuously updated as I implement and complete each ac
 ### Upcoming Linux Administration Tasks
 - Disk and filesystem monitoring.
 - Linux service management using systemctl.
-- Log analysis using journalctl.
+- Log analysis using journalctl..
 - Linux troubleshooting and production incident scenarios.

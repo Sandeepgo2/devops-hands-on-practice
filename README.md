@@ -142,3 +142,18 @@ This repository will be continuously updated as I implement and complete each ac
 - Practiced system load monitoring using uptime and vmstat.
 - Reviewed resource-intensive processes.
 - Documented Linux troubleshooting activities.
+
+## Linux Troubleshooting – Upcoming Activities
+
+### High CPU Utilization
+- Simulate high CPU utilization on Ubuntu.
+- Identify resource-intensive processes using top and ps.
+- Investigate process details and CPU consumption.
+- Safely terminate the problematic process.
+- Verify CPU utilization after resolution.
+
+### Upcoming Linux Administration Tasks
+- Disk and filesystem monitoring.
+- Linux service management using systemctl.
+- Log analysis using journalctl.
+- Linux troubleshooting and production incident scenarios.
